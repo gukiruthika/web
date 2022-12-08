@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+body {
+	font-family: Verdana, sans-serif;
+	color: 363636;
+}
+
+.MCQ {
+	width: 90%;
+	border: black 1px;
+	margin: 20px;
+	font-size: 20px;
+}
+
+.question {
+	width: 100%;
+	font-weight: bold;
+	margin: 15px 0px;
+}
+
+.option {
+	width: 100%;
+	margin-left: 30px;
+}
+
+.heading {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	color: #36f;
+}
+
+button {
+	background-color: Blue;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin-left: 45%;
+	border-radius: 8px;
+}
+
+.right {
+	border: white;
+}
+
+#result {
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	color: #36f;
+}
